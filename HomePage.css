@@ -1,0 +1,20 @@
+img {
+    border-radius: 50%;
+	border: 5px solid #FFFFFF;
+	vertical-align: middle;
+}
+
+section {
+	margin-bottom: 25px;
+}
+
+.headertext {
+	display: inline-block;
+	margin-left: 100px;
+}
+
+.information {
+	width: 60%;
+	margin-left: 20%;
+	text-align: center;
+}
