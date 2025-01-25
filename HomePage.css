@@ -10,7 +10,12 @@ section {
 
 .headertext {
 	display: inline-block;
-	margin-left: 100px;
+	margin-left: 250px;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 250px;
 }
 
 .information {
